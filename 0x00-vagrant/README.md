@@ -1,1 +1,1 @@
-hello ubuntu
+my first readme
